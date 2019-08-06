@@ -1,2 +1,0 @@
-# AkinatorNumber
-Created with CodeSandbox
