@@ -63,9 +63,6 @@ const App = props => {
   return (
     <div className="App">
       <p>O seu numero é {palpite} ?</p>
-      <p>
-        MIN: {min} / Max: {max}
-      </p>
       <button onClick={menor}>Menor!</button>
       <button onClick={acertou}>Acertou!</button>
       <button onClick={maior}>Maior!</button>
